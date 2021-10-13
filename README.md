@@ -181,11 +181,11 @@ Password - тот, что указывали при установке.
 
 Вводим логин в формате {номер}@{IP-адрес машины с Asterisk} и пароль, указанный при создании номера.
 
-<img src="https://github.com/Alllex202/asterisk_setup/blob/main/images/zoiper_1.png" />
+<img src="https://github.com/Alllex202/asterisk_setup/blob/main/images/zoiper_2.png" />
 
 Автоматически должено выбрать SIP UDP.
 
-<img src="https://github.com/Alllex202/asterisk_setup/blob/main/images/zoiper_2.png" />
+<img src="https://github.com/Alllex202/asterisk_setup/blob/main/images/zoiper_3.png" />
 
 ---------
 
@@ -193,4 +193,4 @@ Password - тот, что указывали при установке.
 
 Позвонив по номеру *43, можно осуществить тестовый звонок.
 
-<img src="https://github.com/Alllex202/asterisk_setup/blob/main/images/zoiper_3.png" />
+<img src="https://github.com/Alllex202/asterisk_setup/blob/main/images/zoiper_test.png" />
